@@ -1,1 +1,3 @@
-em ledu mowaa
+It is just basics of Java 
+syntax
+

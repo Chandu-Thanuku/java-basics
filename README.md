@@ -1,3 +1,1 @@
-It is just basics of Java 
-syntax
-
+These all are just Baics of JAVA.
